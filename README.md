@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # SwiftHealth
-=======
+
 # Health Information System
 
 This project is a simple health information management system built with Node.js and Firebase. It allows doctors to create health programs, register clients, and manage enrollments. The system adheres to an **API-first design** for easy integration and scalability.
@@ -30,4 +30,4 @@ This project is a simple health information management system built with Node.js
    ```bash
    git clone https://github.com/YourUsername/health-information-system.git
    cd health-information-system
->>>>>>> 9a569db (Initial commit: SwiftHealth health information system)
+
