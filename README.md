@@ -2,6 +2,12 @@
 
 This project is a simple health information management system built with Node.js and Firebase. It allows doctors to create health programs, register clients, and manage enrollments. The system adheres to an **API-first design** for easy integration and scalability.
 
+## Development Workflow
+
+This project was developed offline using Visual Studio Code (VS Code). The entire project, including all commits, was prepared locally and uploaded to GitHub as a complete, finalized verion
+original files available @\\kentkigen/sturdy-robot
+
+
 ---
 
 ## Features
